@@ -31,6 +31,10 @@ server.publish(hey, (err, msg) => {
 })
 ```
 
+## Dependencies
+
+requires `ssb-db` >= 20.0.0
+
 ## history
 
 Previously this boxing / unboxing functionality was hard-coded into `ssb-db`.
