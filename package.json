@@ -1,6 +1,6 @@
 {
   "name": "ssb-private1",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "an secret-stack plugin which adds private-box (v1) auto-box/unbox functionality",
   "main": "index.js",
   "scripts": {
